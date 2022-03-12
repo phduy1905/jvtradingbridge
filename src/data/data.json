@@ -1,0 +1,141 @@
+{
+  "Header": {
+    "title": "JAPAN VIETNAM TRADING BRIDGE CO. LTD",
+    "paragraph": "The trading bridge between Japan and Vietnam"
+  },
+  "About": {
+    "paragraph": "Japan Vietnam Trading Bridge is a trading company in Hanoi, Vietnam. We established longer and closer working relationships with our clients and suppliers in both Vietnam and Japan not only provide immediate and reliable services but to continually exceed expectations and goals.We create commercial flows, import and export products, arranging and managing international projects with our partners. Supported our network, we are able to integrate all these functions with our fruitful experience. Our numerous competencies allow us to respond to the needs of industries looking for a new market. We look forward to becoming the “bridge” connecting the trading between the two countries..",
+    "Why": [
+      "Professional consulting service from experts with long experience of trading between Japan and Vietnam.",
+      "High speed and accurate service",
+      "Have office and contact person in both Tokyo, Japan and Hanoi, Vietnam"
+    ],
+    "Why2": [
+      "Service with High financial transparency",
+      "Large relationship network with many suppliers, clients and authorities in both two countries"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-chart-line",
+      "name": "General Trading",
+      "text": "Full service wholesale daily goods and consumption good distributor."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consultation",
+      "text": "Business development general consulting service."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Import & Export Service",
+      "text": "JVTB is offering import & export service from/to East Asia, Europe, South America, Africa, Middle East and the Carribean Islands."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"With good team work and good system, good process that makes JVHB to be outstanding.\"",
+      "name": "Nguyen Tien Nam"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"The company’s reliable ability of overseas risk control protects us against the risk of financial default of our clients!.\"",
+      "name": "Takehiro Kagawa"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"We are very much impressed with the professional services received from JVHB account manager.\"",
+      "name": "Shinsuke Nakamura"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "NGUYEN Manh Hoang",
+      "job": "CEO"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "NGO Quoc Tuan",
+      "job": "COO"
+    }
+  ],
+  "Contact": {
+    "address": "Floor 10, Sun Red River Building, 23 Phan Chu Trinh, Hoan Kiem, Hanoi",
+    "phone": "+84 934 517 687",
+    "email": "rxdv90@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-handshake",
+      "title": "Professional",
+      "text": "Professional service from the top professional experts in Vietnam."
+    },
+    {
+      "icon": "fa fa-business-time",
+      "title": "Accurate",
+      "text": "The best service is the accurate with finest quality from JVTB."
+    },
+    {
+      "icon": "fa fa-face-smile-beam",
+      "title": "Dedicated",
+      "text": "Dedicated service from the heart to our clients."
+    },
+    {
+      "icon": "fa fa-thumbs-up",
+      "title": "Perfection",
+      "text": "Clients will always get the perfect service they deserve."
+    }
+  ]
+}
