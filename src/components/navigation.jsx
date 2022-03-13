@@ -15,9 +15,17 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            JVTB
-          </a>{" "}
+          <a
+            className="navbar-brand page-scroll"
+            href="#page-top"
+            style={{ padding: "5px" }}
+          >
+            <img
+              src="https://scontent.fhan4-3.fna.fbcdn.net/v/t1.15752-9/272657596_488874276029725_7127080284477390398_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=ae9488&_nc_ohc=2e2e0277yxwAX8bYM0z&_nc_ht=scontent.fhan4-3.fna&oh=03_AVLexTYhpmyz6qdW7isk9koVLNh-x_ReJdFmKFhwIx_rtw&oe=62538F1E"
+              alt="JVTB logo"
+              style={{ height: "100%" }}
+            />
+          </a>
         </div>
 
         <div
